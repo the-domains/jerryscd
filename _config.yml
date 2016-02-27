@@ -1,0 +1,28 @@
+name: jerryscd
+favicon: null
+layout_spectrum: 0.8762404443696141
+typography_spectrum: 0.6420974782668054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1520244744606316
+  lightness: 0.10108006070367992
+  saturation: 0.9716023325454444
+  rhythmicContrast: 0.8581634880974889
+purpose: []
