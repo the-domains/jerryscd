@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[jerryscd]]></title>
         <description><![CDATA[jerryscd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jerryscd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 20:52:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 21:04:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jerryscd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefineda02f91d3-5ac8-479d-a69a-dbe8fa226396/index.html</link>
+            <description><![CDATA[<p>I am a 3d Character Design and Animation Expert, with expertise on web development, design and everything digital humanities...</p>]]></description>
+            <link>https://thegrid.ai/jerryscd/a02f91d3-5ac8-479d-a69a-dbe8fa226396/index.html</link>
             <guid isPermaLink="false">a02f91d3-5ac8-479d-a69a-dbe8fa226396</guid>
-            <pubDate>Sat, 27 Feb 2016 20:52:34 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 21:03:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
